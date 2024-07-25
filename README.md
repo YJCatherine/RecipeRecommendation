@@ -1,5 +1,5 @@
 # RecipeRecommendation System
-[YouTube Intro]([https://github.com/YJCatherine/RecipeRecommendation](https://www.youtube.com/channel/UCJ_r5A-dfAi8paClN8cNzPA))
+[Watch Demo](https://www.youtube.com/channel/UCJ_r5A-dfAi8paClN8cNzPA)
 
 ![FoodiBot](FoodiBot.png)
 
